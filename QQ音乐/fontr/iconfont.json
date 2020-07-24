@@ -1,0 +1,23 @@
+{
+  "id": "1959447",
+  "name": "右下角",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "688102",
+      "name": "视频 播放 影片",
+      "font_class": "shipinbofangyingpian",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "2705127",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}

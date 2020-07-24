@@ -1,0 +1,23 @@
+{
+  "id": "1959491",
+  "name": "lr",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4499010",
+      "name": "下 箭头大",
+      "font_class": "jiantou8",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9822116",
+      "name": "下 箭头大",
+      "font_class": "right",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    }
+  ]
+}
